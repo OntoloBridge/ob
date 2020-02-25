@@ -1,8 +1,8 @@
 ## Welcome to OntoloBridge
 
-**OntoloBridge is the bridge between regular users of controlled scientific vocabularies and the creators of the underlying ontologies. Ontologies are sets of concepts and categories in a subject area or domain that show their properties and the relations between them.** 
+**OntoloBridge is the bridge between regular users of controlled scientific vocabularies and the creators of the underlying ontologies.** 
 
-OntoloBridge is built upon, and simultaneously validated by, three existing technologies: 
+Ontologies are sets of concepts and categories in a subject area or domain that show their properties and the relations between them.  OntoloBridge is built upon, and simultaneously validated by, three existing technologies: 
 * BioAssay Express ([BAE](https://www.bioassayexpress.com)) from [CDD](https://www.collaborativedrug.com)
 * Center for Expanded Data Annotation and Retrieval ([CEDAR](https://metadatacenter.org/)) workbench from [Stanford University](http://bmir.stanford.edu/)
 * BioAssay Ontology ([BAO](https://bioportal.bioontology.org/ontologies/BAO))from the [University of Miami](http://pharmacology.med.miami.edu)
